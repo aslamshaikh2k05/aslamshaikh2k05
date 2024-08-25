@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aslamshaikh2k05
-- 👀 I’m interested in web designing
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning B.SC IT (FY)
 - 💞️ I’m looking to collaborate on prog.Languages
 - 📫 How to reach me ...
